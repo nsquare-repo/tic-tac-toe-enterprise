@@ -1,0 +1,6 @@
+Project Standards: 
+- Use strict TypeScript for all Frontend code.
+- Follow Redux Toolkit patterns (no legacy Redux).
+- Use Spring Boot 3+ and Java 21 standards for Backend.
+- Prioritize clean, modular, and testable code.
+- Always maintain professional decorum in code comments and naming
